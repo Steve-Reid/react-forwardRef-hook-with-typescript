@@ -1,4 +1,4 @@
-This is a small demo of a parent component passing useRef down to custom input component to enable input field navigation.
+This is a small demo of a parent component using React [forwardRef](https://reactjs.org/docs/forwarding-refs.html) to pass [useRef](https://reactjs.org/docs/hooks-reference.html#useref) down to custom input component to enable input field navigation.
 
 Built from a [Starter project boilerplate](https://github.com/Steve-Reid/create-react-app-typescript) that has been configured with [Typescript](https://www.typescriptlang.org/) [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
 
